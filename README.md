@@ -21,7 +21,7 @@ Com o objetivo de apresentar temas como: declaração de variáveis e seus tipos
 - Guia de intalação do Eclipse IDE: [Tutorial de intalação](https://medium.com/danielpadua/java-spring-boot-eclipse-7a1c4c364839).
 
 ## Como executar a aplicação
-> - Clonar o projeto: [Link para o clone](https://github.com/bruno-rcn/Sintaxe-basica.git)
+> - Clonar o projeto
 > - Abra o projeto no Eclipse
 > - Ir na classe que possua o método main
 > - Clicar no play que esta em um circulo verde localizado no menu superior abaixo da opção Run 
