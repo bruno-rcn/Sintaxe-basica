@@ -20,8 +20,6 @@ Com o objetivo de apresentar temas como: declaração de variáveis e seus tipos
 > ### Eclipse -> [Download do Eclipse](https://www.eclipse.org/).
 - Guia de intalação do Eclipse IDE: [Tutorial de intalação](https://medium.com/danielpadua/java-spring-boot-eclipse-7a1c4c364839).
 
-https://medium.com/danielpadua/java-spring-boot-eclipse-7a1c4c364839
-
 ## Como executar a aplicação
 > - Clonar o projeto: [Link para o clone](https://github.com/bruno-rcn/Sintaxe-basica.git)
 > - Abra o projeto no Eclipse
