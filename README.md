@@ -18,9 +18,9 @@ Com o objetivo de apresentar temas como: declaração de variáveis e seus tipos
 - Guia de intalação do Java: [Tutorial DevMedia - Intalação e configuração](https://www.devmedia.com.br/instalacao-e-configuracao-do-pacote-java-jdk/23749).
 
 > ### Eclipse -> [Download do Eclipse](https://www.eclipse.org/).
-- Guia de intalação do Eclipse IDE Windows: [Tutorial de intalação Windows](https://blog.dankicode.com/como-instalar-eclipse/).
-- Guia de intalação do Eclipse IDE Linux: [Tutorial de intalação Linux](https://www.edivaldobrito.com.br/eclipse-no-linux/).
-- Guia de intalação do Eclipse IDE Mac: [Tutorial de intalação Mac]().
+- Guia de intalação do Eclipse IDE: [Tutorial de intalação](https://medium.com/danielpadua/java-spring-boot-eclipse-7a1c4c364839).
+
+https://medium.com/danielpadua/java-spring-boot-eclipse-7a1c4c364839
 
 ## Como executar a aplicação
 > - Clonar o projeto: [Link para o clone](https://github.com/bruno-rcn/Sintaxe-basica.git)
