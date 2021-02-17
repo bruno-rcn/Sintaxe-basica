@@ -4,7 +4,7 @@
 > - Finalizado! 
  
 # Tópicos do Projeto
-   * [Sobre o Projeto](##Sobre o Projeto)
+   * [Sobre o Projeto](## Sobre o Projeto)
    * [Técnologias](##Técnologias utilizadas)
    * [Montando o ambiente](##Como montar o ambiente)
       * [Java](###Java)
@@ -33,7 +33,7 @@ Com o objetivo de apresentar temas como: declaração de variáveis e seus tipos
 - Guia de intalação do Eclipse IDE Mac: [Tutorial de intalação Mac]().
 
 ## Como executar a aplicação
-> - Clonar o projeto: [Link para o clone]()
+> - Clonar o projeto: [Link para o clone](https://github.com/bruno-rcn/Sintaxe-basica.git)
 > - Abra o projeto no Eclipse
 > - Ir na classe que possua o método main
 > - Clicar no play que esta em um circulo verde localizado no menu superior abaixo da opção Run 
@@ -41,4 +41,4 @@ Com o objetivo de apresentar temas como: declaração de variáveis e seus tipos
 
 
 ## Autor
-- Bruno Noberto [Linkedin]().
+- Bruno Noberto [Linkedin](https://www.linkedin.com/in/bruno-noberto/).
