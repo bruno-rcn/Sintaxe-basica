@@ -4,13 +4,13 @@
 > - Finalizado! 
  
 # Tópicos do Projeto
-   * [Sobre o Projeto](## Sobre o Projeto)
-   * [Técnologias](## 🛠 Técnologias utilizadas)
-   * [Montando o ambiente](## Como montar o ambiente)
-      * [Java](### Java)
-      * [Eclipse](### Eclipse)
-   * [Execução da aplicação](## Como executar a aplicação)
-   * [Autor](## Autor)
+   * [Sobre o Projeto](##Sobre o Projeto)
+   * [Técnologias](##Técnologias utilizadas)
+   * [Montando o ambiente](##Como montar o ambiente)
+      * [Java](###Java)
+      * [Eclipse](###Eclipse)
+   * [Execução da aplicação](##Como executar a aplicação)
+   * [Autor](##Autor)
 
 
 ## Sobre o Projeto
