@@ -1,4 +1,4 @@
-# **Sintaxe-basica - Java**
+# *Sitaxe basica - Java*
 
 # Status do Projeto
 > - Finalizado! :white_check_mark:
@@ -7,17 +7,18 @@
 # :file_folder: Tabela de conteúdo
 1. [Sobre o Projeto](#sobre)
 2. [Técnologias utilizadas](#ferramentas)
-3. [Como montar o ambiente](#ambiente)
-4. [Como executar a aplicação](#execucao)
-5. [Autor](#autor)
+3. [Pré requisitos](#requisitos)
+4. [Como montar o ambiente](#ambiente)
+5. [Como executar a aplicação](#execucao)
+6. [Autor](#autor)
 
 *******
 
 <div id='sobre'/>
 
 ## :file_folder: Sobre o Projeto
->*Projeto referente ao curso de Java e orientação objeto da plataforma Alura sobre a sintaxe básica da linguagem utilizando o Eclipse como IDE.
-Com o objetivo de apresentar temas como: declaração de variáveis e seus tipos;*
+>*Projeto referente ao curso de Java da plataforma Alura Online sobre a sintaxe básica da linguagem.
+Assuntos abordados neste projeto: variáaveis, laços condicionais e laços de repetição;*
 
 *******
 
@@ -27,6 +28,14 @@ Com o objetivo de apresentar temas como: declaração de variáveis e seus tipos
 - Linguagem: Java;
 - Plataforma: Windows;
 - IDE: Eclipse.
+
+*******
+
+<div id='requisitos'/>
+
+## :file_folder: Requisitos para rodar o projeto
+1. Ter o Java instalado;
+2. Ter um editor de texto instalado (no caso, foi utilizado o Eclipse IDE);
 
 *******
 
@@ -45,10 +54,11 @@ Com o objetivo de apresentar temas como: declaração de variáveis e seus tipos
 <div id='execucao'/>
 
 ## :file_folder: Como executar a aplicação
-> - Clonar o projeto e abrir ele no Eclipse;
-> - Ir na classe que possua o método main;
-> - Clicar no play que esta em um circulo verde localizado no menu superior abaixo da opção Run;
-> - Caso preferir, também pode executar clicando na tela, escolher a opção Run as e depois Java Application.
+
+> - Clonar o projeto e abrir ele no editor de texto;
+> - Ir na classe que deseja executar - neste projeto, todas as classes podem ser executadas;
+> - Clicar no play que esta em um circulo verde localizado no menu superior;
+> - Caso preferir, também pode executar clicando na tela com o botão direito, escolher a opção 'Run as' e depois Java Application.
 
 *******
 
